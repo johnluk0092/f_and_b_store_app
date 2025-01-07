@@ -47,5 +47,9 @@
 
 * Folder "Pic" chứa hình chụp kết quả bài làm
 
+### Folder "backup"
+
+* Chứa file zip của đồ án project
+
 ## Note:
 * khi down xuống xóa ký tự " ' " của tên của folder "'.vs"
