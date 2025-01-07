@@ -21,6 +21,11 @@
 * Mã lớp: 23TXTH01
 
 ### Thành Viên 3
+* Họ Tên: Lý Vĩnh Thiên Quý
+* mssv: 2310060058
+* Mã lớp: 23TXTH01
+
+### Thành Viên 4
 * Họ Tên: Trần Võ Thảo Nguyên
 * mssv: 2310060046
 * Mã lớp: 23TXTH01
