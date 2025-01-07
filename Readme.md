@@ -46,3 +46,6 @@
 ### Folder "PIC" chứa hình đồ án gồm:
 
 * Folder "Pic" chứa hình chụp kết quả bài làm
+
+## Note:
+* khi down xuống xóa ký tự " ' " của tên của folder "'.vs"
