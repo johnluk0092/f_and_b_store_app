@@ -1,0 +1,278 @@
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.exe
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.deps.json
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.runtimeconfig.json
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.pdb
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Humanizer.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.csproj.AssemblyReference.cache
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.fLogin.resources
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.csproj.GenerateResource.cache
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.AssemblyInfoInputs.cache
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.AssemblyInfo.cs
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.csproj.CoreCompileInputs.cache
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.csproj.Up2Date
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\refint\QL_CAFE.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.pdb
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.genruntimeconfig.cache
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\ref\QL_CAFE.dll
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.fTableManager.resources
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.fAccountProfile.resources
+D:\STUDIES\QLYCAFE\UI\QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.fAdmin.resources
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.exe
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.deps.json
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.runtimeconfig.json
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\QL_CAFE.pdb
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.csproj.AssemblyReference.cache
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.fAccountProfile.resources
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.fAdmin.resources
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.fLogin.resources
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.fTableManager.resources
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.csproj.GenerateResource.cache
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.AssemblyInfoInputs.cache
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.AssemblyInfo.cs
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.csproj.Up2Date
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\refint\QL_CAFE.dll
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.pdb
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\QL_CAFE.genruntimeconfig.cache
+C:\Users\zsluccam\OneDrive - Siam City Cement Public Company Limited\Documents\C_shape\project_1\source\QL_CAFE\QL_CAFE\obj\Debug\net9.0-windows\ref\QL_CAFE.dll
